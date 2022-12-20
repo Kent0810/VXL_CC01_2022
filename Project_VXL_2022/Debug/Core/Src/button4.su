@@ -1,0 +1,3 @@
+button4.c:19:6:KeyInputHandler4	8	static
+button4.c:29:6:LongKeyInputHandler4	8	static
+button4.c:33:6:getKeyInput4	8	static
